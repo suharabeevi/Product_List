@@ -26,7 +26,7 @@
         QTY:1
     },
     {
-        id:3,
+        id:4,
         model:"SAMSUNG S21",
         desc:"SAMSUNG GALAXY S21 ULTRA 5G",
         price:60000,
@@ -34,7 +34,7 @@
         QTY:1
     },
     {
-        id:4,
+        id:5,
         model:"SAMSUNG S21",
         desc:"SAMSUNG GALAXY S21 ULTRA 5G",
         price:60000,
