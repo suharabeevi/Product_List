@@ -2,12 +2,12 @@
 import './App.css';
 import Products from './Components/Products/Products';
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import { Container } from 'react-bootstrap';
 function App() {
   return (
- <>
-    <Products/>
- </>
+ <Container><Products/></Container>
+    
+
 
  
     
